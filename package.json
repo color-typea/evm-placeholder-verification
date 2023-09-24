@@ -26,7 +26,7 @@
     "@truffle/hdwallet-provider": "^2.0.1",
     "as-table": "1.0.55",
     "bip39": "^3.0.4",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "eth-gas-reporter": "^0.2.24",
     "ethereumjs-wallet": "^1.0.2",
     "ethers": "^5.7.2",
@@ -34,7 +34,7 @@
     "hardhat-deploy": "^0.11.25",
     "hardhat-deploy-ethers": "0.4.0-next.1",
     "json5": "^2.2.1",
-    "lossless-json": "^2.0.9",
+    "lossless-json": "^2.0.11",
     "solpp": "^0.11.5",
     "web3": "^1.7.0"
   },
